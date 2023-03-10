@@ -17,7 +17,7 @@ class CuraEngineConan(ConanFile):
     name = "curaengine"
     license = "AGPL-3.0"
     author = "Ultimaker B.V."
-    url = "https://github.com/Ultimaker/CuraEngine"
+    url = "https://github.com/shyblower/SuperCuraEngine"
     description = "Powerful, fast and robust engine for converting 3D models into g-code instructions for 3D printers. It is part of the larger open source project Cura."
     topics = ("cura", "protobuf", "gcode", "c++", "curaengine", "libarcus", "gcode-generation", "3D-printing")
     build_policy = "missing"
